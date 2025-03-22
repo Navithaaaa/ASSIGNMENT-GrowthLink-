@@ -10,7 +10,7 @@ The dataset is first loaded using Pandas. Data cleaning involves handling missin
 Model Selection
 
 Model selection was based on accuracy and performance metrics using cross-validation.
-Random Forest Classifier was evaluated and achieved a good predictabily.
+Random Forest Classifier was evaluated and achieved a good predictability using the same.
 
 Performance Analysis
 
